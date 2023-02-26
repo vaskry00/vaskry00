@@ -5,7 +5,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWE0ZDQ2MzdjOGYwZWQ4YmJmZmRiMzdiOGVmMzQ1ZjI0NDMxOTE2OSZjdD1n/TOWeGr70V2R1K/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWE0ZDQ2MzdjOGYwZWQ4YmJmZmRiMzdiOGVmMzQ1ZjI0NDMxOTE2OSZjdD1n/TOWeGr70V2R1K/giphy.gif" width="650">
 </div>
 
 
@@ -30,6 +30,7 @@
 
 </div>
 
+### Каналы для связи: 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0b0038?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-vasilyev-374412243/)
@@ -37,3 +38,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](vaskryy0@gmail.com)
 
 </div>
+
